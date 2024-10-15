@@ -1,0 +1,59 @@
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 6285552..f1fbfc3 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -14,52 +14,7 @@[m
+ </head>[m
+ <body>[m
+ [m
+[31m-  Desserts[m
+[31m-[m
+[31m-  Waffle with Berries[m
+[31m-  Waffle[m
+[31m-  6.50[m
+[31m-  Add to Cart[m
+[31m-[m
+[31m-  Vanilla Bean Crème Brûlée[m
+[31m-  Crème Brûlée[m
+[31m-  7.00[m
+[31m-  Add to Cart[m
+[31m-[m
+[31m-  Macaron Mix of Five[m
+[31m-  Macaron[m
+[31m-  8.00[m
+[31m-  Add to Cart[m
+[31m-[m
+[31m-  Classic Tiramisu[m
+[31m-  Tiramisu[m
+[31m-  5.50[m
+[31m-  Add to Cart[m
+[31m-[m
+[31m-  Pistachio Baklava[m
+[31m-  Baklava[m
+[31m-  4.00[m
+[31m-  Add to Cart[m
+[31m-[m
+[31m-  Lemon Meringue Pie[m
+[31m-  Pie[m
+[31m-  5.00[m
+[31m-  Add to Cart[m
+[31m-[m
+[31m-  Red Velvet Cake[m
+[31m-  Cake[m
+[31m-  4.50[m
+[31m-  Add to Cart[m
+[31m-[m
+[31m-  Salted Caramel Brownie[m
+[31m-  Brownie[m
+[31m-  4.50[m
+[31m-  Add to Cart[m
+[31m-[m
+[31m-  Vanilla Panna Cotta[m
+[31m-  Panna Cotta[m
+[31m-  6.50[m
+[31m-  Add to Cart[m
+[32m+[m[41m  [m
+ [m
+   Your Cart (<!-- Quantity -->)[m
+   Your added items will appear here[m
